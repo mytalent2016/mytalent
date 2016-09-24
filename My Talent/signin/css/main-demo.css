@@ -1,0 +1,139 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	background-size: cover;
+}
+
+
+
+.bg-cyan {
+	background-image: url(../img/bg-cyan.jpg);
+}
+
+
+.body {
+	max-width: 600px;
+	margin-left: 250px ;
+	padding: 40px;
+
+}
+
+.main-sky-form header {
+	display: block;
+	width: 768px;
+
+	border-bottom: 1px solid rgba(0,0,0,.1);
+	background: rgba(248,248,248,.9);
+	font-size: 25px;
+	font-weight: 300;
+	color: #232323;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+
+}
+.main-sky-form fieldset {
+	display: block;	
+	width: 700px;
+	border: none;
+	background: rgba(255,255,255,.9);
+}
+
+.main-sky-form section {
+	margin-bottom: 20px;
+}
+.main-sky-form footer {
+	display: block;
+	width: 768px;
+	border-top: 1px solid rgba(0,0,0,.1);
+	background: rgba(248,248,248,.9);
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.main-sky-form about {
+	color:#000;
+	background: #FFF;
+	font-size:25px
+	}
+
+
+
+body {
+	font-family: 'Orienta', sans-serif;
+	color: #252525;
+	position: relative;
+	padding:0;
+	margin: 0;
+}
+
+.container {
+	width:740px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+
+label.mobile_menu span {
+	margin-left: 10px;
+	color: white;
+	display: none;
+}
+
+.nav {
+ 
+	font-family: 'Orienta', sans-serif; 
+	font-weight: 400; /* 400 thinner */
+	font-size: 13px;
+	line-height: 13px;
+
+ 
+	position: relative;
+
+	margin: 0;
+
+ 
+    background-color: #1abc9c;
+}
+
+
+.nav a, .nav a:link, .nav a:visited, .nav a:hover, .nav a:focus, span {
+	color: #fff;
+	text-decoration: none;
+	
+}
+
+
+.nav > li {
+	display: inline-block;
+	text-align: center;
+	
+
+}
+
+
+
+.nav > li > a {
+	padding:20px 18px;
+	display: block;
+}
+
+
+
+.nav > li:hover {
+	background-color: #16a085;
+}
+
+
+
+
+
+
+
+
+
